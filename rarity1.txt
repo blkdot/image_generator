@@ -1,0 +1,292 @@
+(./Assets/Katakana/Katakana Murasaki.png) 0 0
+(./Assets/Katakana/Katakana Kinako.png) 0 0
+(./Assets/Katakana/Katakana Midori.png) 0 0
+(./Assets/Katakana/Katakana Sakura.png) 0 0
+(./Assets/Katakana/Katakana Ichigo.png) 0 0
+(./Assets/Katakana/Katakana Umi.png) 0 0
+(./Assets/Katakana/Katakana Goma.png) 0 0
+(./Assets/Kanji/Murasaki.png) 0 0
+(./Assets/Kanji/Kinako.png) 0 0
+(./Assets/Kanji/Midori.png) 0 0
+(./Assets/Kanji/Sakura.png) 0 0
+(./Assets/Kanji/Ichigo.png) 0 0
+(./Assets/Kanji/Umi.png) 0 0
+(./Assets/Kanji/Goma.png) 0 0
+(./Assets/Legs/Ghost Legs.png) 0 0
+(./Assets/Legs/Cyber Punk Legs.png) 835 1548
+(./Assets/Legs/Geisha Legs.png) 837 1548
+(./Assets/Legs/Drag Fishnet.png) 868 1548
+(./Assets/Legs/Drag PVC Boots.png) 890 1548
+(./Assets/Legs/Kabuki Legs.png) 807 1548
+(./Assets/Legs/Skeleton Legs.png) 0 0
+(./Assets/Legs/Crypto Ojisan Legs.png) 837 1548
+(./Assets/Legs/Roller Skates.png) 866 1548
+(./Assets/Legs/City Pop Legs.png) 869 1548
+(./Assets/Legs/Kpop Legs.png) 846 1548
+(./Assets/Legs/Death Metal Punk Boots.png) 835 1548
+(./Assets/Legs/Monk Legs.png) 829 1548
+(./Assets/Legs/Limited Edition As You Know.png) 838 1548
+(./Assets/Legs/Crypto Love Legs.png) 837 1548
+(./Assets/Legs/Hard Working Legs.png) 836 1548
+(./Assets/Legs/Socks.png) 837 1548
+(./Assets/Legs/Rugby Legs.png) 836 1548
+(./Assets/Legs/Bare.png) 837 1548
+(./Assets/Legs/Mint Pumps.png) 891 1548
+(./Assets/Legs/Combat Boots.png) 835 1548
+(./Assets/Legs/Pink Pumps.png) 891 1548
+(./Assets/Legs/NYC Street Legs.png) 853 1548
+(./Assets/Legs/Girl Power Legs.png) 837 1548
+(./Assets/Legs/Good Pea Legs.png) 837 1548
+(./Assets/Legs/Yellow Mules.png) 891 1548
+(./Assets/Legs/Yakuza Legs.png) 837 1548
+(./Assets/Legs/Samurai Legs.png) 831 1544
+(./Assets/Body/face/Otaku Bod.png) 424 240
+(./Assets/Body/face/Kappa Bod.png) 424 240
+(./Assets/Body/face/Skeleton Bod.png) 414 240
+(./Assets/Body/face/Kabuki Bod.png) 0 0
+(./Assets/Body/face/Cyber Punk Body Light.png) 424 240
+(./Assets/Body/face/Ninja Bod.png) 424 240
+(./Assets/Body/face/Geisha Bod.png) 424 240
+(./Assets/Body/face/City Pop Bod.png) 424 240
+(./Assets/Body/face/Idol Bod.png) 424 240
+(./Assets/Body/face/Kpop Bod.png) 424 240
+(./Assets/Body/face/Death Meal Punk Bod.png) 424 240
+(./Assets/Body/face/Barrister Bod.png) 424 240
+(./Assets/Body/face/Navy Bod.png) 424 240
+(./Assets/Body/face/Military Bod.png) 424 240
+(./Assets/Body/face/Medical Bod With Red Top.png) 424 240
+(./Assets/Body/face/Monk Bod.png) 424 240
+(./Assets/Body/face/Pinstripe Bod.png) 424 240
+(./Assets/Body/face/Sumo Bod.png) 424 240
+(./Assets/Body/face/A Marching Pea.png) 424 240
+(./Assets/Body/face/A Talking Pea.png) 424 240
+(./Assets/Body/face/A Walking Pea.png) 424 240
+(./Assets/Body/face/Hoodie.png) 424 240
+(./Assets/Body/face/Prof. Saito Bod.png) 424 240
+(./Assets/Body/face/DJ Bod.png) 424 240
+(./Assets/Body/face/Matsuri Bod.png) 424 240
+(./Assets/Body/face/Ghost Bod.png) 424 240
+(./Assets/Body/face/Ping Pong Bod.png) 424 240
+(./Assets/Body/face/Rugby Bod.png) 424 240
+(./Assets/Body/face/Footballer Bod.png) 424 240
+(./Assets/Body/face/Sporty Sensei Bod.png) 424 240
+(./Assets/Body/face/Casual Suit Bod.png) 424 240
+(./Assets/Body/face/Kinjiro Bod.png) 424 240
+(./Assets/Body/face/Determined Bod.png) 424 240
+(./Assets/Body/face/Polite Bod.png) 424 240
+(./Assets/Body/face/Politician Bod.png) 424 240
+(./Assets/Body/face/Gangsta Bod.png) 424 240
+(./Assets/Body/face/Sk8ter Bod.png) 222 240
+(./Assets/Body/face/School Girl Bod.png) 424 240
+(./Assets/Body/face/Insta Wife Bod.png) 308 240
+(./Assets/Body/face/Yakuza Bod.png) 424 240
+(./Assets/Body/face/Salaryman Bod.png) 424 240
+(./Assets/Body/face/Samurai Bod.png) 424 240
+(./Assets/Mouth/Skeleton Mouth.png) 0 0
+(./Assets/Mouth/Geisha Mouth.png) 0 0
+(./Assets/Mouth/Kabuki Mouth.png) 0 0
+(./Assets/Mouth/Kappa Mouth.png) 0 0
+(./Assets/Mouth/Been Told Not To Say.png) 0 0
+(./Assets/Mouth/Grumpy Prof. Saito.png) 0 0
+(./Assets/Mouth/Otaku Mouth.png) 0 0
+(./Assets/Mouth/Pre Veneers.png) 0 0
+(./Assets/Mouth/TOT.png) 0 0
+(./Assets/Mouth/Brace Smile.png) 0 0
+(./Assets/Mouth/Juicy Lips.png) 0 0
+(./Assets/Mouth/Soft Gangsta Lips.png) 0 0
+(./Assets/Mouth/Local Mouth.png) 0 0
+(./Assets/Mouth/Scream.png) 0 0
+(./Assets/Mouth/Sumo Mouth.png) 0 0
+(./Assets/Mouth/Only Speak Justice.png) 0 0
+(./Assets/Mouth/Fully Veneered.png) 0 0
+(./Assets/Mouth/Military Mouth.png) 0 0
+(./Assets/Mouth/Positive Sensei Smile.png) 0 0
+(./Assets/Mouth/Noble Smile.png) 0 0
+(./Assets/Mouth/Determined Mouth.png) 0 0
+(./Assets/Mouth/Sarcasm.png) 536 1034
+(./Assets/Mouth/Only Wise Words.png) 0 0
+(./Assets/Mouth/Cheeky Smile.png) 0 0
+(./Assets/Mouth/Pink Lips.png) 0 0
+(./Assets/Mouth/Standard Mouth.png) 0 0
+(./Assets/Mouth/Enhanced Lips.png) 0 0
+(./Assets/Mouth/Yakuza Mouth.png) 0 0
+(./Assets/Mouth/Ojisan Mouth.png) 471 1010
+(./Assets/Mouth/Samurai Mouth.png) 0 0
+(./Assets/Nose/Kabuki Nose.png) 0 0
+(./Assets/Nose/Kappa Nose.png) 0 0
+(./Assets/Nose/High Cheekbones.png) 0 0
+(./Assets/Nose/Challenger Nose.png) 0 0
+(./Assets/Nose/Sumo Nose.png) 0 0
+(./Assets/Nose/Noble Nose.png) 0 0
+(./Assets/Nose/Major Contour Nose.png) 0 0
+(./Assets/Nose/Otaku Nose.png) 0 0
+(./Assets/Nose/Pointy And Upward.png) 0 0
+(./Assets/Nose/Strong Sensei Nose.png) 0 0
+(./Assets/Nose/Determined Nose.png) 0 0
+(./Assets/Nose/Big Man Nose.png) 0 0
+(./Assets/Nose/Nosy.png) 516 874
+(./Assets/Nose/Big And Pointy.png) 541 874
+(./Assets/Nose/No Filter.png) 0 0
+(./Assets/Nose/Littlest Nose.png) 0 0
+(./Assets/Nose/Little Nose.png) 0 0
+(./Assets/Nose/Yakuza Nose.png) 0 0
+(./Assets/Nose/Standard Nose.png) 0 0
+(./Assets/Eyes/Brows/Tired Prof. Saito Eyes.png) 0 0
+(./Assets/Eyes/Brows/Ghost Eyes.png) 0 0
+(./Assets/Eyes/Brows/Geisha Eyes.png) 0 0
+(./Assets/Eyes/Brows/Kabuki Eyes.png) 0 0
+(./Assets/Eyes/Brows/Kappa Eyes.png) 0 0
+(./Assets/Eyes/Brows/Gangsta Eyes.png) 0 0
+(./Assets/Eyes/Brows/Baby Pumpkin Eyes.png) 0 0
+(./Assets/Eyes/Brows/Otaku Eyes.png) 0 0
+(./Assets/Eyes/Brows/Beaten Eyes.png) 0 0
+(./Assets/Eyes/Brows/Wealth Attraction.png) 0 0
+(./Assets/Eyes/Brows/Georgina Eyes.png) 0 0
+(./Assets/Eyes/Brows/Yakuza Eyes.png) 0 0
+(./Assets/Eyes/Brows/Ojisan Eyes.png) 0 0
+(./Assets/Eyes/Brows/Kpop Eyes.png) 0 0
+(./Assets/Eyes/Brows/City Pop Eyes.png) 0 0
+(./Assets/Eyes/Brows/Sumo Eyes.png) 0 0
+(./Assets/Eyes/Brows/Idol Eyes.png) 0 0
+(./Assets/Eyes/Brows/Local Eyes.png) 0 0
+(./Assets/Eyes/Brows/Sharp Look.png) 0 0
+(./Assets/Eyes/Brows/Not In A Good Mood.png) 0 0
+(./Assets/Eyes/Brows/Military Eyes.png) 0 0
+(./Assets/Eyes/Brows/No Judgement.png) 0 0
+(./Assets/Eyes/Brows/Raised Brow.png) 0 0
+(./Assets/Eyes/Brows/Noble Eyes.png) 0 0
+(./Assets/Eyes/Brows/Determined Eyes.png) 0 0
+(./Assets/Eyes/Brows/Pretty But Tired Eyes.png) 0 0
+(./Assets/Eyes/Brows/Difficult But Warm Eyes.png) 0 0
+(./Assets/Eyes/Brows/Natural Lash Eyes.png) 0 0
+(./Assets/Eyes/Brows/Standard Eyes.png) 0 0
+(./Assets/Eyes/Brows/Samurai Eyes.png) 0 0
+(./Assets/Attitude/Cyber Punk Face.png) 0 0
+(./Assets/Attitude/Geisha Umbrella.png) 338 41
+(./Assets/Attitude/VR Goggles.png) 0 0
+(./Assets/Attitude/Smol Face.png) 426 643
+(./Assets/Attitude/Punched Face.png) 0 0
+(./Assets/Attitude/LOVE U.png) 274 606
+(./Assets/Attitude/Death Metal Punk Mask.png) 0 0
+(./Assets/Attitude/Rebel For Life Flag.png) 322 164
+(./Assets/Attitude/Peace Flag.png) 322 164
+(./Assets/Attitude/LGBTQ Flag.png) 322 164
+(./Assets/Attitude/Gimp Mask Red.png) 0 0
+(./Assets/Attitude/Gimp Mask Black.png) 0 0
+(./Assets/Attitude/Maneki Neko Mask.png) 296 535
+(./Assets/Attitude/Kitsune Mask.png) 396 516
+(./Assets/Attitude/Cheeky Okame Mask.png) 360 515
+(./Assets/Attitude/Okame L2 Mask.png) 385 465
+(./Assets/Attitude/Skeleton Greetings.png) 0 0
+(./Assets/Attitude/That Fucking Husband.png) 180 519
+(./Assets/Attitude/Otaku Backpack.png) 0 0
+(./Assets/Attitude/Medical Mask.png) 0 0
+(./Assets/Attitude/Mask X.png) 0 0
+(./Assets/Attitude/Chopsticks.png) 215 547
+(./Assets/Attitude/Green Tea.png) 258 382
+(./Assets/Attitude/Cocktail.png) 224 556
+(./Assets/Attitude/Breezy.png) 1567 1321
+(./Assets/Attitude/Let’s Go.png) 136 409
+(./Assets/Attitude/Idol Peace.png) 100 398
+(./Assets/Attitude/Matsuri Thingy.png) 73 196
+(./Assets/Attitude/Hitodama.png) 0 0
+(./Assets/Attitude/Just Some Scratches.png) 254 438
+(./Assets/Attitude/Onigiri Rice Ball.png) 192 894
+(./Assets/Attitude/Proper Salute.png) 204 436
+(./Assets/Attitude/Peas Vs Humans.png) 0 239
+(./Assets/Attitude/Greetings.png) 337 158
+(./Assets/Attitude/Ninja Shuriken.png) 215 775
+(./Assets/Attitude/Up For A Slice.png) 178 311
+(./Assets/Attitude/Powerful Salute.png) 90 575
+(./Assets/Attitude/Shiny Peas.png) 192 479
+(./Assets/Attitude/Skateboard.png) 272 1038
+(./Assets/Attitude/Rosy Cheeks.png) 0 0
+(./Assets/Attitude/Husbands Credit Card.png) 157 374
+(./Assets/Attitude/Puff And Scars.png) 153 872
+(./Assets/Attitude/Having A Puff.png) 153 872
+(./Assets/Badge/Key Citizen Badge.png) 0 0
+(./Assets/Hair Accessory/Cosplay Hair.png) 0 0
+(./Assets/Hair Accessory/Ghost Hair.png) 0 0
+(./Assets/Hair Accessory/Maiko San Hair.png) 0 0
+(./Assets/Hair Accessory/Turban Hair.png) 0 0
+(./Assets/Hair Accessory/Rockabilly.png) 0 0
+(./Assets/Hair Accessory/Leaf On Head.png) 0 0
+(./Assets/Hair Accessory/That Barrister Thingy.png) 0 0
+(./Assets/Hair Accessory/Lost Property.png) 0 0
+(./Assets/Hair Accessory/Dreadlocks.png) 0 0
+(./Assets/Hair Accessory/Punk Green Mohican.png) 0 0
+(./Assets/Hair Accessory/Punk Red Mohican.png) 0 0
+(./Assets/Hair Accessory/Otaku Pony.png) 0 0
+(./Assets/Hair Accessory/City Pop Hair.png) 0 0
+(./Assets/Hair Accessory/Ping Pong Ready.png) 0 0
+(./Assets/Hair Accessory/Sumo Hair.png) 0 0
+(./Assets/Hair Accessory/Navy Hat.png) 0 0
+(./Assets/Hair Accessory/Military Hat.png) 0 0
+(./Assets/Hair Accessory/Monk Hat.png) 0 0
+(./Assets/Hair Accessory/Samurai Hair.png) 0 0
+(./Assets/Hair Accessory/Sun Visor.png) 0 0
+(./Assets/Hair Accessory/Marunouchi Hat.png) 0 0
+(./Assets/Hair Accessory/Major Comb Over.png) 491 239
+(./Assets/Hair Accessory/Ikebukuro Hat.png) 0 0
+(./Assets/Hair Accessory/Odaiba Hat.png) 0 0
+(./Assets/Hair Accessory/Roppongi Hat.png) 0 0
+(./Assets/Hair Accessory/Daikanyama Hat.png) 0 0
+(./Assets/Hair Accessory/Ginza Hat.png) 0 0
+(./Assets/Hair Accessory/Pig Tails.png) 0 0
+(./Assets/Hair Accessory/Blonde Sided Hair.png) 0 0
+(./Assets/Hair Accessory/Joe Hair.png) 0 0
+(./Assets/Hair Accessory/Visual Kei.png) 0 0
+(./Assets/Hair Accessory/Idol Hair.png) 0 0
+(./Assets/Hair Accessory/Green Fluff.png) 0 0
+(./Assets/Hair Accessory/Edo Headband.png) 0 0
+(./Assets/Hair Accessory/Challenger Hair.png) 0 0
+(./Assets/Hair Accessory/Nice Smelling Hair.png) 0 0
+(./Assets/Hair Accessory/That Famous Long Hair.png) 0 0
+(./Assets/Hair Accessory/Strong Sensei Hair.png) 0 0
+(./Assets/Hair Accessory/Soft Hair.png) 0 0
+(./Assets/Hair Accessory/Fly.png) 0 0
+(./Assets/Hair Accessory/Gold Standard 7-3 Parting Hair.png) 0 0
+(./Assets/Hair Accessory/Noble Hair.png) 0 0
+(./Assets/Hair Accessory/Dirty Money Hat.png) 0 0
+(./Assets/Hair Accessory/Beret.png) 0 0
+(./Assets/Hair Accessory/Straightened Damaged Hair.png) 0 0
+(./Assets/Hair Accessory/Straw Hat.png) 0 0
+(./Assets/Arm/Walkie With A Ferret.png) 1102 876
+(./Assets/Arm/Walkie Time But This Dog.png) 1102 876
+(./Assets/Arm/Walkie With A Dog.png) 998 876
+(./Assets/Arm/Walkie Time But This Cat.png) 1102 876
+(./Assets/Arm/Walkie With A Cat.png) 1102 876
+(./Assets/Arm/Leave No Trace At All.png) 1009 876
+(./Assets/Arm/Human Bag.png) 900 876
+(./Assets/Arm/Baby Calf Bag.png) 916 876
+(./Assets/Arm/Skeleton Arm.png) 0 0
+(./Assets/Arm/Hardest Workers Arm.png) 937 876
+(./Assets/Arm/Geisha Fan.png) 813 876
+(./Assets/Arm/Sack Of XTZ.png) 901 876
+(./Assets/Arm/Sack Of BTC.png) 901 876
+(./Assets/Arm/Sack Of ETH.png) 901 876
+(./Assets/Arm/Toting Dead Fish.png) 910 876
+(./Assets/Arm/Wheel.png) 903 876
+(./Assets/Arm/Pilot Mask.png) 957 876
+(./Assets/Arm/Monk Kit.png) 943 876
+(./Assets/Arm/Officials Trumpet.png) 832 876
+(./Assets/Arm/Fine Gold 1000G.png) 1027 876
+(./Assets/Arm/Jolly Expensive Arm.png) 1051 876
+(./Assets/Arm/Maiko San Bag.png) 1051 876
+(./Assets/Arm/Medical Kit.png) 967 876
+(./Assets/Arm/Guitar.png) 941 876
+(./Assets/Arm/Electric Guitar.png) 953 876
+(./Assets/Arm/Gameboi.png) 1043 876
+(./Assets/Arm/Game Controller.png) 957 876
+(./Assets/Arm/Walkieman.png) 539 817
+(./Assets/Arm/Otaku Treasure.png) 1001 876
+(./Assets/Arm/Singer Arm.png) 1005 876
+(./Assets/Arm/Matsuri Fan Arm.png) 836 876
+(./Assets/Arm/Ping Pong Arm.png) 906 876
+(./Assets/Arm/Rugby Arm.png) 967 876
+(./Assets/Arm/Doctors Bag.png) 937 876
+(./Assets/Arm/Low Battery Watch.png) 1108 876
+(./Assets/Arm/School Bag.png) 1021 877
+(./Assets/Arm/Standard Arm.png) 1108 876
+(./Assets/Arm/Tattooed Arm.png) 1108 876
+(./Assets/Arm/Samurai Sword.png) 1017 877
