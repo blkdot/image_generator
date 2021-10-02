@@ -644,7 +644,7 @@ if __name__ == '__main__':
     except IOError:
       print("Error: File does not appear to exist.")
     if flag == False:
-      f = open("temp.txt", "w")
+      f = open("metadata1.txt", "w", encoding='utf-8')
       f.write("(%s) (%s) (%s) (%s) (%s) (%s) (%s) (%s) (%s) (%s)\n" % (bkgFileName, legsFileName, bodyFileName, mouthFileName, noseFileName, eyesFileName, attitudeFileName, badgeFileName, hairFileName, armFileName))
       f.close()
       mergeImageAndSave(i, bkgFileName, legsFileName, bodyFileName, mouthFileName, noseFileName, eyesFileName, attitudeFileName, badgeFileName, hairFileName, armFileName)
