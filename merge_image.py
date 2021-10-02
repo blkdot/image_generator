@@ -6,8 +6,9 @@ rarityFileName = 'rarity1.txt'
 
 def getLegImagePos(legsFileName):
 	filepath = './Assets/Legs/' + legsFileName + '.png'
-	file = open(rarityFileName, 'r')
+	file = open(rarityFileName, 'r', encoding='utf-8')
 	Lines = file.readlines()
+	file.close()
 	for line in Lines:
 		if filepath in line:
 			newstr = line.replace("(" + filepath + ")", '')
@@ -17,8 +18,9 @@ def getLegImagePos(legsFileName):
 
 def getBodyImagePos(bodyFileName):
 	filepath = './Assets/Body/face/' + bodyFileName + '.png'
-	file = open(rarityFileName, 'r')
+	file = open(rarityFileName, 'r', encoding='utf-8')
 	Lines = file.readlines()
+	file.close()
 	for line in Lines:
 		if filepath in line:
 			newstr = line.replace("(" + filepath + ")", '')
@@ -28,8 +30,9 @@ def getBodyImagePos(bodyFileName):
 
 def getMouthImagePos(mouthFileName):
 	filepath = './Assets/Mouth/' + mouthFileName + '.png'
-	file = open(rarityFileName, 'r')
+	file = open(rarityFileName, 'r', encoding='utf-8')
 	Lines = file.readlines()
+	file.close()
 	for line in Lines:
 		if filepath in line:
 			newstr = line.replace("(" + filepath + ")", '')
@@ -39,8 +42,9 @@ def getMouthImagePos(mouthFileName):
 
 def getNoseImagePos(noseFileName):
 	filepath = './Assets/Nose/' + noseFileName + '.png'
-	file = open(rarityFileName, 'r')
+	file = open(rarityFileName, 'r', encoding='utf-8')
 	Lines = file.readlines()
+	file.close()
 	for line in Lines:
 		if filepath in line:
 			newstr = line.replace("(" + filepath + ")", '')
@@ -50,8 +54,9 @@ def getNoseImagePos(noseFileName):
 
 def getEyesImagePos(eyesFileName):
 	filepath = './Assets/Eyes/Brows/' + eyesFileName + '.png'
-	file = open(rarityFileName, 'r')
+	file = open(rarityFileName, 'r', encoding='utf-8')
 	Lines = file.readlines()
+	file.close()
 	for line in Lines:
 		if filepath in line:
 			newstr = line.replace("(" + filepath + ")", '')
@@ -61,8 +66,9 @@ def getEyesImagePos(eyesFileName):
 
 def getAttitudeImagePos(attitudeFileName):
 	filepath = './Assets/Attitude/' + attitudeFileName + '.png'
-	file = open(rarityFileName, 'r')
+	file = open(rarityFileName, 'r', encoding='utf-8')
 	Lines = file.readlines()
+	file.close()
 	for line in Lines:
 		if filepath in line:
 			newstr = line.replace("(" + filepath + ")", '')
@@ -72,8 +78,9 @@ def getAttitudeImagePos(attitudeFileName):
 
 def getBadgeImagePos(badgeFileName):
 	filepath = './Assets/Badge/' + badgeFileName + '.png'
-	file = open(rarityFileName, 'r')
+	file = open(rarityFileName, 'r', encoding='utf-8')
 	Lines = file.readlines()
+	file.close()
 	for line in Lines:
 		if filepath in line:
 			newstr = line.replace("(" + filepath + ")", '')
@@ -83,8 +90,9 @@ def getBadgeImagePos(badgeFileName):
 
 def getHairImagePos(hairFileName):
 	filepath = './Assets/Hair Accessory/' + hairFileName + '.png'
-	file = open(rarityFileName, 'r')
+	file = open(rarityFileName, 'r', encoding='utf-8')
 	Lines = file.readlines()
+	file.close()
 	for line in Lines:
 		if filepath in line:
 			newstr = line.replace("(" + filepath + ")", '')
@@ -94,8 +102,9 @@ def getHairImagePos(hairFileName):
 
 def getArmImagePos(armFileName):
 	filepath = './Assets/Arm/' + armFileName + '.png'
-	file = open(rarityFileName, 'r')
+	file = open(rarityFileName, 'r', encoding='utf-8')
 	Lines = file.readlines()
+	file.close()
 	for line in Lines:
 		if filepath in line:
 			newstr = line.replace("(" + filepath + ")", '')

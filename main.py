@@ -620,6 +620,7 @@ def getArm():
 
 if __name__ == '__main__':
   for i in range(count):
+    print(i)
     bkgFileName = getBackground()
     legsFileName = getLegs()
     bodyFileName = getBody()
@@ -632,7 +633,7 @@ if __name__ == '__main__':
     armFileName = getArm()
     flag = False
     try:
-      file = open("temp.txt", 'r')
+      file = open("metadata1.txt", 'r', encoding='utf-8')
       Lines = file.readlines()
       file.close()
       writeString = "(%s) (%s) (%s) (%s) (%s) (%s) (%s) (%s) (%s) (%s)\n" % (bkgFileName, legsFileName, bodyFileName, mouthFileName, noseFileName, eyesFileName, attitudeFileName, badgeFileName, hairFileName, armFileName)

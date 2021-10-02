@@ -6,11 +6,11 @@ if __name__ == '__main__':
 
   parent_dir = './Assets/'
   path = ''
-  file_path = 'PeaBots_skin1.psd'
+  file_path = 'PeaBots_skin3.psd'
 
   psd = PSDImage.open(file_path)
   # psd.compose().save('example.png')
-  f = open("rarity1.txt", "w")
+  f = open("rarity3.txt", "w")
 
   for layer in list(psd.descendants()):
   
