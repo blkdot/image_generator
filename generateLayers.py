@@ -10,7 +10,7 @@ if __name__ == '__main__':
 
   psd = PSDImage.open(file_path)
   # psd.compose().save('example.png')
-  f = open("rarity3.txt", "w")
+  f = open("rarity3.txt", "w", encoding='utf-8')
 
   for layer in list(psd.descendants()):
   

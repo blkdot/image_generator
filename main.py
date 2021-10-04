@@ -1,6 +1,6 @@
 import random
 from merge_image import mergeImageAndSave
-count = 3333
+count = 3334
 
 def getBackground():
   n = random.randrange(14)
@@ -633,7 +633,7 @@ if __name__ == '__main__':
     armFileName = getArm()
     flag = False
     try:
-      file = open("metadata1.txt", 'r', encoding='utf-8')
+      file = open("metadata3.txt", 'r', encoding='utf-8')
       Lines = file.readlines()
       file.close()
       writeString = "(%s) (%s) (%s) (%s) (%s) (%s) (%s) (%s) (%s) (%s)\n" % (bkgFileName, legsFileName, bodyFileName, mouthFileName, noseFileName, eyesFileName, attitudeFileName, badgeFileName, hairFileName, armFileName)
@@ -644,10 +644,10 @@ if __name__ == '__main__':
     except IOError:
       print("Error: File does not appear to exist.")
     if flag == False:
-      f = open("metadata1.txt", "w", encoding='utf-8')
+      f = open("metadata3.txt", "a", encoding='utf-8')
       f.write("(%s) (%s) (%s) (%s) (%s) (%s) (%s) (%s) (%s) (%s)\n" % (bkgFileName, legsFileName, bodyFileName, mouthFileName, noseFileName, eyesFileName, attitudeFileName, badgeFileName, hairFileName, armFileName))
       f.close()
-      mergeImageAndSave(i, bkgFileName, legsFileName, bodyFileName, mouthFileName, noseFileName, eyesFileName, attitudeFileName, badgeFileName, hairFileName, armFileName)
+      mergeImageAndSave(i + 6666, bkgFileName, legsFileName, bodyFileName, mouthFileName, noseFileName, eyesFileName, attitudeFileName, badgeFileName, hairFileName, armFileName)
   # bkgFileName = 'Goma'
   # legsFileName = 'Skeleton Legs'
   # bodyFileName = 'Kabuki Bod'
